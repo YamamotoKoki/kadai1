@@ -1,0 +1,22 @@
+@charset "UTF-8";
+html{
+  font-size:100%;
+}
+ p{
+   text-align:center;
+   font-size: 90%;
+  }
+h1{
+  font-size: 150%;
+  background-color: rgba(81, 140 ,132)
+}
+td{
+  text-align: center;
+}
+.a{
+  background-color: White;
+  font-size: 50%;
+}
+body{
+  background-color: rgba(225, 250,194)
+}
